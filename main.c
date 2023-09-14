@@ -5,6 +5,7 @@
 
 int main(int argc, char *argv[]) {
 	printf("Hello, Dayooooni\n");
+	printf("%d + %d = %d\n",10,20,10+20);
 	getchar();
 	return 0;
 }
